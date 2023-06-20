@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.google-login-button{
+    /* @apply w-60 xl:w-96  xl:text-2xl m-auto p-3 font-bold flex justify-evenly items-center rounded-lg border border-gray-700 */
+    background: red;
+}
